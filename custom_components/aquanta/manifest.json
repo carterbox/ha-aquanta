@@ -2,7 +2,8 @@
   "domain": "aquanta",
   "name": "Aquanta",
   "codeowners": [
-    "@bmcclure"
+    "@bmcclure",
+    "@carterbox"
   ],
   "config_flow": true,
   "dependencies": [],
