@@ -1,6 +1,6 @@
 {
     "name": "Aquanta",
-    "hacs": "1.6.0",
-    "homeassistant": "2023.3.0",
-    "render_readme": true,
+    "country": ["US", "CA", "BM"],
+    "homeassistant": "2026.2.0",
+    "hacs": "2.0.0"
 }

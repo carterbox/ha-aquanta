@@ -10,7 +10,7 @@
         },
         "step": {
             "user": {
-                "description": "If you need help with the configuration have a look here: https://github.com/bmcclure/ha-aquanta",
+                "description": "If you need help with the configuration check the GitHub repository for this integration.",
                 "data": {
                     "username": "Email address",
                     "password": "Password"
